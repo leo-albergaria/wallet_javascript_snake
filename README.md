@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/144281161-20414d89-4b25-4334-9a1b-5436da44dab5.png" align="left" height="150px" width="150px">
+    <h1># Recriando o jogo da cobrinha com JavaScript</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. Sendo assim, sua missão é reproduzir esse projeto prático, considerando todas as instruções e dicas da expert. Nesse sentido, fique a vontade para implementar suas próprias melhorias e evoluções.
     </p>
 </p>      
 
